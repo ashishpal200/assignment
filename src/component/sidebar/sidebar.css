@@ -1,0 +1,197 @@
+.container{
+    
+    width: 23%;
+}
+
+.brandname{
+    display: flex;
+    background: #254775;
+    padding-left: 2rem;
+    
+}
+.brandname p{
+    color: white;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+}
+
+.buttonnew .btn{
+    width: 190px;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+    border-radius: 5px; 
+    background: #12ddaa;
+    border: none;
+    font-weight: 300;
+    color: white;
+}
+
+.buttonnew .btn2{
+    width: 190px;
+    margin-top: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;   
+    border-radius: 5px; 
+    background: white;
+    font-weight: 300;
+}
+
+
+img{
+    
+    height: 10%;
+    position: relative;
+    padding-top: 10px;
+}
+hr{
+    width:74%;
+    text-align:left;
+    margin-top: 25px;
+    height:2px;
+    background: gainsboro;
+    border: none;
+
+}
+
+.buttonnew{
+    padding-top:30px;
+    text-align: center;
+
+}
+
+.sections{
+    padding-top: 10px;
+    padding-left: 31px;
+}
+.sections .sectionbtn1{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;   
+    
+    background: white;
+    border: none;
+    display: flex;
+  align-items: center;
+    font-size: 15px;
+    
+}
+
+.maincontainer{
+    display: flex;
+}
+.rightside{
+    
+    width: 100%;
+}
+
+.navbar{
+    
+    width: 100%;
+    background: #254775;
+    padding: 7.5px;
+    display: flex;
+    padding-left: 37rem;
+    
+}
+
+.search-bar{
+    float:right;
+    width: 320px;
+    background: #546c8d;
+    border-radius: 9px;
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 22px;
+    
+}
+::placeholder {
+    color: rgb(148, 170, 231);
+    opacity: 1;
+  }
+
+input{
+    border: none;
+    width: 250px;
+    outline: none;
+    background: none;
+    
+}
+.navbar i{
+    padding-left: 8px;
+     padding-right: 8px;
+}
+
+.filtersection{
+    display : flex;
+    flex-direction : row;
+    
+    
+}
+
+.groupname{
+    padding-left: 2px;
+    padding-top: 40px;
+    width: 50%;
+}
+.groupname span{
+    
+    width: 50%;
+}
+
+.filtericon{
+    padding-top: 28px;
+    padding-left: 36rem;
+}
+.filtericon .search-bar{
+    float:right;
+    width: 320px;
+    background: #f0eeef;
+    border-radius: 9px;
+    padding: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 22px;
+}
+.rightside hr{
+    width:100%;
+    
+    top: 2px;
+    height:2px;
+    
+    background: gainsboro;
+    border: none;
+}
+.hrp{
+    padding-right: 27px;
+}
+.card{
+    padding: 10px;
+    padding-top: 10px;
+}
+.container1 {
+display: flex;
+width: 210px;
+    background: #a8c7f1;
+    padding-left: 2rem;
+    border-radius: 10px;
+}
+
+.newstar{
+    padding-top: 10px;
+    
+}
+.recore{
+    
+    padding-left: 10px;
+    margin-top: -1rem;
+}
+.jfile{
+    display: flex;
+    
+
+}
